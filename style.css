@@ -106,3 +106,8 @@ project
 #projects .card-title {
     font-weight: bold;
 }
+
+.project-video {
+    width: 100%;
+    height: 270px;
+}
