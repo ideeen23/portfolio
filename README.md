@@ -1,8 +1,8 @@
 ## portfolio
 This is a portfolio creates for educational purpose
 
-![](<img width="452" alt="Portfolio-Screenshot" src="https://user-images.githubusercontent.com/68505646/146929911-93c4b3e4-2684-4e81-a5a7-3a0200e826fe.png">
-)
+<img width="452" alt="Portfolio-Screenshot" src="https://user-images.githubusercontent.com/68505646/146930201-2e6dc07c-0bc5-46d8-b02b-6e6d298df5ef.png">
+
 
 
 ## Technologies Used
